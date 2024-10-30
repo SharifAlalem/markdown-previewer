@@ -1,0 +1,15 @@
+.editor-section {
+    width: 48%;
+    height: 100%;
+
+    h4 {
+        margin: 5px;
+    }
+
+    #editor {
+        width: 95%;
+        height: 100%;
+        padding: 10px;
+        resize: vertical;
+    }
+}
